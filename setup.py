@@ -7,18 +7,18 @@ except ImportError:
 
 from codecs import open
 
-with open('shareplum/version.py', 'r') as fd:
+with open('shareplumfreightplusio/version.py', 'r') as fd:
     version = re.search(r'^__version__\s*=\s*[\'"]([^\'"]*)[\'"]',
                         fd.read(), re.MULTILINE).group(1)
 
 setup(
-    name='SharePlum',
+    name='shareplumfreightplusio',
     version=version,
-    description='Python SharePoint Library',
+    description='Python SharePoint FreightPlus Library',
     long_description=open('README.rst').read(),
-    url='https://github.com/jasonrollins/shareplum',
-    author='Jason Rollins',
-    author_email='jason.c.rollins@gmail.com',
+    url='https://github.com/rcwethey/shareplumFreightplusIO',
+    author='Ryan Wethey',
+    author_email='rwethey@freightplus.io',
     license='MIT',
     classifiers=[
         'Development Status :: 4 - Beta',
@@ -35,6 +35,6 @@ setup(
         'Topic :: Office/Business',
     ],
     keywords=['SharePoint'],
-    packages=['shareplum'],
+    packages=['shareplumfreightplusio'],
     install_requires=['lxml', 'requests', 'requests-ntlm', 'requests-toolbelt'],
 )

@@ -1,7 +1,9 @@
 PROJECT STATUS
 ===================
 
-I have not had access to a SharePoint server for a while now and I do not feel that I can support this library in any reasonable fashion.  I will still accept pull requests and respond to issues as much as I can, but please be aware that I am no longer capapable of testing most of these changes.
+If you do not work for FreightPlus.io, please do not bother me, just fork this and fix the issue yourself.
+
+Thank you.
 
 SharePlum
 ==========

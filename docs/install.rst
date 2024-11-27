@@ -8,8 +8,8 @@ Installation is as easy as::
 
 or install from source. ::
 
-    $ git clone git://github.com/jasonrollins/shareplum
-    $ cd shareplum
+    $ git clone git://github.com/rcwehtey/shareplumFreightplusIO
+    $ cd shareplumFreightplusIO
     $ python setup.py install
 
 Dependencies

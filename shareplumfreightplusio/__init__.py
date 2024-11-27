@@ -8,5 +8,5 @@ from .version import __version__  # noqa: F401
 
 __all__ = ["site", "office365"]
 
-__title__ = "SharePlum SharePoint Library"
-__author__ = "Jason Rollins"
+__title__ = "SharePlum SharePoint FreightPlus.io Library"
+__author__ = "Ryan Wethey"

@@ -46,9 +46,9 @@ source_suffix = '.rst'
 master_doc = 'index'
 
 # General information about the project.
-project = 'SharePlum'
-copyright = '2020, Jason Rollins'
-author = 'Jason Rollins'
+project = 'shareplumFreightplusIO'
+copyright = '2024, Ryan Wethey'
+author = 'Ryan Wethey'
 
 # The version info for the project you're documenting, acts as replacement for
 # |version| and |release|, also used in various other places throughout the
